@@ -140,6 +140,7 @@ This project identifies **conversion inefficiency (not demand)** as the core bus
 ---
 
 ## 🔗 Links
-- GitHub Repository: [Add Link]  
-- Power BI Dashboard: [Add Link]  
-- LinkedIn: [Add Link]
+
+- 📊 Power BI Dashboard: [View Dashboard](https://vs8273-my.sharepoint.com/:u:/g/personal/vee_vs8273_onmicrosoft_com/IQCY4ntiIDKkT4RnAsXKwAXzAUYOLvnpdbog2DCiqA9Mcp8?e=caZTmK)
+
+- 💼 LinkedIn: [Varun Dev Sharma](https://www.linkedin.com/in/varun-dev-sharma-b88260259/)
